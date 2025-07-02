@@ -16,6 +16,9 @@ namespace BethenyPieShopAdmin.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            // Configurations
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(BethenysPieShopDbContext).Assembly);
+
             modelBuilder.Entity<Category>().ToTable("Categories");
             modelBuilder.Entity<Pie>().ToTable("Pies");
             modelBuilder.Entity<Order>().ToTable("Orders");
