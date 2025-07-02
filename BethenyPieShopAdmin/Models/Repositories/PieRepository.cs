@@ -1,6 +1,6 @@
 ﻿namespace BethenyPieShopAdmin.Models.Repositories
 {
-    public class PieRepository
+    public class PieRepository : IPieRepository
     {
     }
 }

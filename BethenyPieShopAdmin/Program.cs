@@ -1,4 +1,5 @@
 using BethenyPieShopAdmin.Models;
+using BethenyPieShopAdmin.Models.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<BethenysPieShopDbContext>(options =>
      options.UseSqlServer(builder.Configuration
      .GetConnectionString("BethenysPieShopDbContextConnection")));
+
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
