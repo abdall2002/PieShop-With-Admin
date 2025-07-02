@@ -7,7 +7,7 @@ namespace BethenyPieShopAdmin.Models.Configuration
     {
         public void Configure(EntityTypeBuilder<Category> builder)
         {
-            throw new NotImplementedException();
+            builder.Property(b => b.Name).IsRequired();
         }
     }
 }
