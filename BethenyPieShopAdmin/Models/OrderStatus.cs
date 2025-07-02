@@ -1,6 +1,6 @@
 ﻿namespace BethenyPieShopAdmin.Models
 {
-    public enum Orderstatus
+    public enum OrderStatus
     {
         Received,
         Paid,
