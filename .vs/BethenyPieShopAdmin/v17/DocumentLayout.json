@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\repositories\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\repositories\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\pie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\pie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\migrations\\20250709124127_pieversioningadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\migrations\\20250709124127_pieversioningadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\viewmodels\\categorybulkeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\viewmodels\\categorybulkeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\category\\bulkedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\category\\bulkedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\pie\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\pie\\indexpagingsorting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\pie\\indexpagingsorting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\repositories\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\repositories\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\viewmodels\\piesearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,20 +79,12 @@
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\viewmodels\\categorylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\repositories\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\repositories\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\pie\\indexpaging.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -73,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\pie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\pie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -99,16 +123,8 @@
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\bethenyspieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\pie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\pie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -125,10 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|solutionrelative:bethenypieshopadmin\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F317B4F9-CC71-4F19-A623-0E2FBFD50C0E}|BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj|c:\\users\\training.3\\source\\repos\\bethenypieshopadmin\\bethenypieshopadmin\\migrations\\20250709081214_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -214,7 +226,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 46,
+          "SelectedChildIndex": 33,
           "Children": [
             {
               "$type": "Bookmark",
@@ -238,7 +250,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "20250709124127_PieVersioningAdded.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Migrations\\20250709124127_PieVersioningAdded.cs",
+              "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Migrations\\20250709124127_PieVersioningAdded.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Migrations\\20250709124127_PieVersioningAdded.cs",
+              "RelativeToolTip": "BethenyPieShopAdmin\\Migrations\\20250709124127_PieVersioningAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:41:28.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BulkEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Category\\BulkEdit.cshtml",
+              "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Category\\BulkEdit.cshtml",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Category\\BulkEdit.cshtml",
+              "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Category\\BulkEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T12:10:57.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryBulkEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\ViewModels\\CategoryBulkEditViewModel.cs",
+              "RelativeDocumentMoniker": "BethenyPieShopAdmin\\ViewModels\\CategoryBulkEditViewModel.cs",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\ViewModels\\CategoryBulkEditViewModel.cs",
+              "RelativeToolTip": "BethenyPieShopAdmin\\ViewModels\\CategoryBulkEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:03:46.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Search.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\Search.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Pie\\Search.cshtml",
@@ -246,12 +297,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\Search.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T10:57:35.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:57:35.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "PieSearchViewModel.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\ViewModels\\PieSearchViewModel.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\ViewModels\\PieSearchViewModel.cs",
@@ -259,12 +309,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\ViewModels\\PieSearchViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:52:17.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:52:17.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "IndexPagingSorting.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\IndexPagingSorting.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Pie\\IndexPagingSorting.cshtml",
@@ -272,12 +321,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\IndexPagingSorting.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T10:35:11.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:35:11.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "IndexPaging.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\IndexPaging.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Pie\\IndexPaging.cshtml",
@@ -285,12 +333,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\IndexPaging.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T10:30:28.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:30:28.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "PaginatedList.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Utilities\\PaginatedList.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Utilities\\PaginatedList.cs",
@@ -298,12 +345,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Utilities\\PaginatedList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:17:17.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:17:17.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\Delete.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Pie\\Delete.cshtml",
@@ -311,12 +357,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T08:58:09.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:58:09.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Category\\Delete.cshtml",
@@ -324,12 +369,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T08:51:50.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:51:50.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "20250709081214_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Migrations\\20250709081214_InitialMigration.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Migrations\\20250709081214_InitialMigration.cs",
@@ -337,12 +381,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Migrations\\20250709081214_InitialMigration.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAgwBwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T08:12:20.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:12:20.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Ingredient.cs",
@@ -350,12 +393,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Ingredient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:38:39.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:38:39.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Order.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Order.cs",
@@ -363,12 +405,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Order.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAYwEMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:38:23.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:38:23.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Category\\Edit.cshtml",
@@ -376,25 +417,24 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T18:31:50.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:31:50.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\Edit.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Pie\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\Edit.cshtml",
-              "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\Edit.cshtml*",
+              "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-08T18:31:40.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "PieEditViewModel.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\ViewModels\\PieEditViewModel.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\ViewModels\\PieEditViewModel.cs",
@@ -402,12 +442,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\ViewModels\\PieEditViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:29:49.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:29:49.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Category\\Add.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Category\\Add.cshtml",
@@ -415,12 +454,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Category\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-06T21:19:14.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T21:19:14.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\Add.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Pie\\Add.cshtml",
@@ -428,12 +466,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-06T16:36:47.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T16:36:47.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "PieAddViewModel.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\ViewModels\\PieAddViewModel.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\ViewModels\\PieAddViewModel.cs",
@@ -441,12 +478,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\ViewModels\\PieAddViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:22:14.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T16:22:14.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Order\\Index.cshtml",
@@ -458,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Order\\Details.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Order\\Details.cshtml",
@@ -470,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "OrderIndexViewModel.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\ViewModels\\OrderIndexViewModel.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\ViewModels\\OrderIndexViewModel.cs",
@@ -478,12 +514,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\ViewModels\\OrderIndexViewModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T23:25:57.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T23:25:57.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Controllers\\OrderController.cs",
@@ -491,12 +526,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Controllers\\OrderController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T23:25:19.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T23:25:19.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Repositories\\OrderRepository.cs",
@@ -504,12 +538,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Repositories\\OrderRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T23:17:30.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T23:17:30.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Repositories\\IOrderRepository.cs",
@@ -521,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\OrderDetail.cs",
@@ -533,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\Details.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Pie\\Details.cshtml",
@@ -541,12 +574,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\Details.cshtml",
               "ViewState": "AgIAAFQAAAAAAAAAAAAmwGkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T23:12:41.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T23:12:41.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Pie\\Index.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Pie\\Index.cshtml",
@@ -554,25 +586,24 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Pie\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T23:12:31.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T23:12:31.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PieController.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Controllers\\PieController.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Controllers\\PieController.cs",
-              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Controllers\\PieController.cs",
-              "RelativeToolTip": "BethenyPieShopAdmin\\Controllers\\PieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Controllers\\PieController.cs*",
+              "RelativeToolTip": "BethenyPieShopAdmin\\Controllers\\PieController.cs*",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAiwOIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T23:08:58.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Category\\Details.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Category\\Details.cshtml",
@@ -584,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "bootstrap.js",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
@@ -596,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -608,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Shared\\Error.cshtml",
@@ -620,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\_ViewStart.cshtml",
@@ -632,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\libman.json",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\libman.json",
@@ -644,20 +675,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAYwFgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwGYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-03T18:44:00.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Home\\Index.cshtml",
@@ -669,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\_ViewImports.cshtml",
@@ -681,20 +712,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "BethenyPieShopAdmin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-03T18:39:42.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "CategoryListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\ViewModels\\CategoryListViewModel.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\ViewModels\\CategoryListViewModel.cs",
@@ -702,51 +733,50 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\ViewModels\\CategoryListViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T18:03:27.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T18:03:27.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BethenyPieShopAdmin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwI4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T18:00:25.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PieRepository.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\PieRepository.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Repositories\\PieRepository.cs",
-              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\PieRepository.cs",
-              "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Repositories\\PieRepository.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAmwJQAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\PieRepository.cs*",
+              "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Repositories\\PieRepository.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T17:58:45.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Repositories\\ICategoryRepository.cs",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\ICategoryRepository.cs",
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T17:58:42.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "IPieRepository.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\IPieRepository.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Repositories\\IPieRepository.cs",
@@ -754,25 +784,24 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Repositories\\IPieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T17:58:41.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T17:58:41.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Repositories\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwHMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T17:58:39.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\appsettings.json",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\appsettings.json",
@@ -784,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "BethenysPieShopDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\BethenysPieShopDbContext.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\BethenysPieShopDbContext.cs",
@@ -792,12 +821,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\BethenysPieShopDbContext.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T17:46:35.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T17:46:35.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Category.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Category.cs",
@@ -805,12 +833,11 @@
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T17:46:32.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T17:46:32.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\DbInitializer.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\DbInitializer.cs",
@@ -822,20 +849,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 4,
               "Title": "Pie.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Pie.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\Pie.cs",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\Pie.cs",
               "RelativeToolTip": "BethenyPieShopAdmin\\Models\\Pie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAzwDAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T17:46:27.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "BethenyPieShopAdmin.csproj",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\BethenyPieShopAdmin.csproj",
@@ -847,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Program.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Program.cs",
@@ -859,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Controllers\\HomeController.cs",
@@ -871,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\BethenyPieShopAdmin\\BethenyPieShopAdmin\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "BethenyPieShopAdmin\\Models\\ErrorViewModel.cs",

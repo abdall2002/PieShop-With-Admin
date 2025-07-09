@@ -1,15 +1,18 @@
 ﻿
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace BethenyPieShopAdmin.Models.Repositories
 {
     public class CategoryRepository : ICategoryRepository
     {
         private readonly BethenysPieShopDbContext _bethenysPieShopDbContext;
-
-        public CategoryRepository(BethenysPieShopDbContext bethenysPieShopDbContext)
+        private IMemoryCache _memoryCache;
+        private const string AllCategoriesCacheName = "AllCategories";
+        public CategoryRepository(BethenysPieShopDbContext bethenysPieShopDbContext, IMemoryCache memoryCache)
         {
             _bethenysPieShopDbContext = bethenysPieShopDbContext;
+            _memoryCache = memoryCache;
         }
 
  
@@ -21,8 +24,18 @@ namespace BethenyPieShopAdmin.Models.Repositories
 
         public async Task<IEnumerable<Category>> GetAllCategoriesAsync()
         {
-            return await _bethenysPieShopDbContext.Categories
-                .OrderBy(c => c.CategoryId).ToListAsync();
+            List<Category> allCategories = null;
+            if(!_memoryCache.TryGetValue(AllCategoriesCacheName, out allCategories))
+            {
+                allCategories = await _bethenysPieShopDbContext.Categories.AsNoTracking().OrderBy(c => c.CategoryId).ToListAsync();
+                var cacheEntryOptions = new MemoryCacheEntryOptions().SetSlidingExpiration(TimeSpan.FromSeconds(60));
+
+                _memoryCache.Set(AllCategoriesCacheName, allCategories, cacheEntryOptions);
+            }
+
+            //return await _bethenysPieShopDbContext.Categories
+            //    .OrderBy(c => c.CategoryId).ToListAsync();
+            return allCategories;
         }
 
         public async Task<Category?> GetCategoryByIdAsync(int id)
@@ -32,7 +45,8 @@ namespace BethenyPieShopAdmin.Models.Repositories
         }
         public async Task<int> AddCategoryAsync(Category category)
         {
-            bool categoryWithSameNameExist = await _bethenysPieShopDbContext.Categories.AnyAsync(c => c.Name == category.Name);
+            bool categoryWithSameNameExist = await _bethenysPieShopDbContext.Categories
+                .AnyAsync(c => c.Name == category.Name);
 
             if (categoryWithSameNameExist)
             {
@@ -41,7 +55,9 @@ namespace BethenyPieShopAdmin.Models.Repositories
 
             _bethenysPieShopDbContext.Categories.Add(category);//could be done using async too
 
-            return await _bethenysPieShopDbContext.SaveChangesAsync();
+            int result = await _bethenysPieShopDbContext.SaveChangesAsync();
+            _memoryCache.Remove(AllCategoriesCacheName);
+            return result;
         }
         public async Task<int> UpdateCategoryAsync(Category category)
         {
@@ -91,6 +107,26 @@ namespace BethenyPieShopAdmin.Models.Repositories
             {
                 throw new ArgumentException($"The Category to delete can`t be found!");
             }
+        }
+        public async Task<int> UpdateCategoryNamesAsync(List<Category> categories)
+        {
+            foreach (var category in categories)
+            {
+                var categoryToUpdate = await _bethenysPieShopDbContext.Categories
+                    .FirstOrDefaultAsync(c => c.CategoryId == category.CategoryId);
+
+                if (categoryToUpdate != null)
+                {
+                    categoryToUpdate.Name = category.Name;
+
+                    _bethenysPieShopDbContext.Categories.Update(categoryToUpdate);
+                }
+            }
+
+            int result = await _bethenysPieShopDbContext.SaveChangesAsync();
+            _memoryCache.Remove(AllCategoriesCacheName);
+
+            return result;
         }
     }
 }
